@@ -68,7 +68,7 @@ end
 
 It is same with Job Message
 
-`SneakersPacker.publish("demo.suprise", "hello world")`
+`SneakersPacker.publish("demo.suprise", "hello world SNT")`
 
 **Server**
 
